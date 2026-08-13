@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Jiayi Guo
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
