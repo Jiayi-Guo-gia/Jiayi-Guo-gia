@@ -7,15 +7,16 @@ first_name: Jiayi
 middle_name:
 last_name: Guo
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please feel free to contact me regarding research collaboration.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jiayi Guo studies actuarial science, machine learning, and climate risks—
-  because “expect the unexpected” is not a complete risk model.
+  Jiayi Guo is a Ph.D. student at the University of Illinois Urbana-Champaign.
+  Her research focuses on actuarial science, artificial intelligence, machine learning,
+  climate and catastrophe risk, cyber risk, insurance analytics, and data-driven risk assessment.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: actuarial science, artificial intelligence, machine learning, insurance analytics, predictive analytics, climate risk, catastrophe risk modeling, cyber risk, risk management
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -137,8 +138,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: Notes on Actuarial Science, Machine Learning, Predictive Analytics & Risk Management
+blog_name: Life Beyond the Models
+blog_description: A collection of baking adventures, beautiful sunsets, everyday moments, and whatever else makes life interesting.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
